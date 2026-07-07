@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I code to build creative things and always ready to learn new tech!**
 
-- 📄 Know about my experiences **[https://ak1072368-cpu.github.io/Resume.pdf/](https://ak1072368-cpu.github.io/Resume/)**
+- 📄 Know about my experiences **[Resume](https://ak1072368-cpu.github.io/Resume/resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
